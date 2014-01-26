@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LunchLogger</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_place_title">Place Name:</string>
+    <string name="add_place_textview_hint">Enter place name…</string>
+    <string name="add_place_okbtn_title">Add</string>
+    <string name="main_addbtn_title">Add a new place!</string>
+
+</resources>
